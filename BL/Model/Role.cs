@@ -8,5 +8,6 @@ namespace BL.Model
 {
     class Role
     {
+        public string NameRole { get; set; }
     }
 }
