@@ -18,7 +18,6 @@ namespace BL.Model
     {
         TypeOfManager TM;
         TM = TypeOfManager.Developer;
-        //Ojcze nasz, który jesteś w niebie, niech się święci imię Twoje! Niech przyjdzie królestwo Twoje; niech Twoja wola spełnia się na ziemi, tak jak i w niebie.
         public string LastName { get; set; }
         public string FirstName { get; set; }
         public int Age { get; set; }   
