@@ -1,0 +1,11 @@
+E:\Lesson\lessOne1\lessOne1\bin\Debug\netcoreapp2.1\lessOne1.deps.json
+E:\Lesson\lessOne1\lessOne1\bin\Debug\netcoreapp2.1\lessOne1.runtimeconfig.json
+E:\Lesson\lessOne1\lessOne1\bin\Debug\netcoreapp2.1\lessOne1.runtimeconfig.dev.json
+E:\Lesson\lessOne1\lessOne1\bin\Debug\netcoreapp2.1\lessOne1.dll
+E:\Lesson\lessOne1\lessOne1\bin\Debug\netcoreapp2.1\lessOne1.pdb
+E:\Lesson\lessOne1\lessOne1\obj\Debug\netcoreapp2.1\lessOne1.csprojAssemblyReference.cache
+E:\Lesson\lessOne1\lessOne1\obj\Debug\netcoreapp2.1\lessOne1.csproj.CoreCompileInputs.cache
+E:\Lesson\lessOne1\lessOne1\obj\Debug\netcoreapp2.1\lessOne1.AssemblyInfoInputs.cache
+E:\Lesson\lessOne1\lessOne1\obj\Debug\netcoreapp2.1\lessOne1.AssemblyInfo.cs
+E:\Lesson\lessOne1\lessOne1\obj\Debug\netcoreapp2.1\lessOne1.dll
+E:\Lesson\lessOne1\lessOne1\obj\Debug\netcoreapp2.1\lessOne1.pdb
