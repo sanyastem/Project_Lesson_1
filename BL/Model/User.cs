@@ -8,5 +8,6 @@ namespace BL.Model
 {
     class User
     {
+        //first commit
     }
 }
