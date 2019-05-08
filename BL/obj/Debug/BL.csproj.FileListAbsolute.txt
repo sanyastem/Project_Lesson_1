@@ -1,5 +1,0 @@
-E:\Lesson\lessOne1\BL\bin\Debug\BL.dll
-E:\Lesson\lessOne1\BL\bin\Debug\BL.pdb
-E:\Lesson\lessOne1\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
-E:\Lesson\lessOne1\BL\obj\Debug\BL.dll
-E:\Lesson\lessOne1\BL\obj\Debug\BL.pdb
