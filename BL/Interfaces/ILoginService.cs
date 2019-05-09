@@ -4,10 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BL.Model
+namespace BL.Interfaces
 {
-    class User
+    interface ILoginService
     {
-        //first commit aa
+        void LogIn();
+
+        void LogOut();
     }
 }
