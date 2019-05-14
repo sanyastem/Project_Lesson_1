@@ -14,5 +14,6 @@ namespace BL.Models
 
         public Profile Profile { get; set; }
 
+        public bool CheckLogin { get; set; }
     }
 }
