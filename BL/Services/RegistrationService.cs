@@ -13,9 +13,6 @@ namespace BL.Services
         public void CreateNewUser() {
 
             User newUser = new User();
-
-
-
             
         }
 
