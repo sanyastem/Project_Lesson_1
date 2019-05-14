@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using BL.Models;
 
 namespace BL.Interfaces
 {
@@ -10,6 +11,6 @@ namespace BL.Interfaces
     {
         void LogIn();
 
-        void LogOut();
+        void LogOut(User user);
     }
 }
