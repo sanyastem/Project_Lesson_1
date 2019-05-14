@@ -6,8 +6,9 @@ using System.Threading.Tasks;
 
 namespace BL.Services
 {
-    public class Service
+    public static class Storage
     {
+
 
     }
 }
