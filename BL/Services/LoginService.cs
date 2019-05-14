@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using BL.Interfaces;
+using BL.Models;
 
 namespace BL.Services
 {
@@ -14,9 +15,9 @@ namespace BL.Services
             throw new NotImplementedException();
         }
 
-        public void LogOut()
+        public void LogOut(User user)
         {
-            throw new NotImplementedException();
+            user.CheckLogin = false;
         }
     }
 }
