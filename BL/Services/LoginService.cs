@@ -10,6 +10,7 @@ namespace BL.Services
 {
     public class LoginService : ILoginService
     {
+        private delegate string ShowBye(User user);
         public void LogIn()
         {
             throw new NotImplementedException();
@@ -18,6 +19,11 @@ namespace BL.Services
         public void LogOut(User user)
         {
             user.CheckLogin = false;
+
+            ShowBye bye = x => "Goodbye" + x.Profile.LastName;
+            bye += x => "Login: " + x.Login;
+            
+            Console.WriteLine(bye(user));
         }
     }
 }
