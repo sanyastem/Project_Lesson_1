@@ -16,7 +16,7 @@ namespace BL.Services
 
         public void LogOut()
         {
-            throw new NotImplementedException();
+            
         }
     }
 }
