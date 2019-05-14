@@ -9,7 +9,7 @@ namespace BL.Interfaces
 {
     interface ILoginService
     {
-        void LogIn();
+        void LogIn(List<User> user, User userForCheck);
 
         void LogOut(User user);
     }

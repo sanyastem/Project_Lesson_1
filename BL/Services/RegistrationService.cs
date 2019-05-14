@@ -8,13 +8,16 @@ using BL.Interfaces;
 
 namespace BL.Services
 {
-    public class RegistrationService : IRegistrationService
+    public class RegistrationService
     {
-        public void CreateNewUser() {
+        public User CreateNewUser(string login, string pass, Profile profile) {
 
-            User newUser = new User();
-            
+            User user = new User() { Login = login, Password = pass, Profile = profile};
+
+            return user;
         }
+
+
 
     }
 }
