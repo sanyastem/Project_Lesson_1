@@ -28,9 +28,9 @@ namespace BL.Services
             userForCheck.CheckLogin = false;
         }
 
-        public void LogOut()
+        public void LogOut(User user)
         {
-            throw new NotImplementedException();
+            user.CheckLogin = false;
         }
     }
 }

@@ -11,6 +11,6 @@ namespace BL.Interfaces
     {
         void LogIn(List<User> user, User userForCheck);
 
-        void LogOut();
+        void LogOut(User user);
     }
 }
