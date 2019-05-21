@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace BL.Interfaces
-{
+{//jhj
     interface IRegistrationService
     {
         void CreateNewUser();
